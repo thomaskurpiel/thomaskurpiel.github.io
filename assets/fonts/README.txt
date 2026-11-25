@@ -1,0 +1,1 @@
+Variable WOFF2-Dateien (normal) hier ablegen: Inter.woff2 und SpaceGrotesk.woff2. Originalquellen: https://fonts.google.com/specimen/Inter und https://fonts.google.com/specimen/Space+Grotesk . Bei Bedarf TTF-Dateien mit fonttools in WOFF2 konvertieren. Lizenzdateien der Schriftarten ebenfalls ablegen. Ohne Dateien werden Systemschriftarten verwendet.
